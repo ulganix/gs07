@@ -1,4 +1,4 @@
-mport * as GaussianSplats3D from '@mkkellogg/gaussian-splats-3d';
+import * as GaussianSplats3D from '@mkkellogg/gaussian-splats-3d';
 
 const viewer = new GaussianSplats3D.Viewer({
 	    'cameraUp': [0, -1, -0.6],
